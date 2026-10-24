@@ -1,0 +1,8 @@
+customer_id,customer_name,region,signup_date,segment
+1,Aarav Sharma,North,2023-01-15,Consumer
+2,Ananya Iyer,South,2023-02-20,Corporate
+3,Rohan Verma,North,2023-03-10,Consumer
+4,Priya Nair,West,2023-04-05,Corporate
+5,Vikram Mehta,South,2023-05-12,Home Office
+6,Neha Patel,East,2023-05-18,Consumer
+7,Siddharth Rao,West,2023-06-01,Corporate

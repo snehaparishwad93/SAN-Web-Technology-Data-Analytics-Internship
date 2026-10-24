@@ -1,0 +1,13 @@
+order_id,customer_id,order_date,category,product_name,quantity,unit_price,total_amount
+101,1,2023-06-01,Electronics,Wireless Headphones,2,150.00,300.00
+102,2,2023-06-03,Furniture,Ergonomic Chair,1,250.00,250.00
+103,1,2023-06-05,Electronics,Mechanical Keyboard,1,120.00,120.00
+104,3,2023-06-07,Clothing,Denim Jacket,2,45.00,90.00
+105,4,2023-06-10,Electronics,4K Monitor,2,400.00,800.00
+106,2,2023-06-12,Clothing,Cotton Shirt,3,25.00,75.00
+107,5,2023-06-15,Furniture,Standing Desk,1,450.00,450.00
+108,3,2023-06-18,Electronics,Gaming Mouse,1,60.00,60.00
+109,6,2023-06-20,Furniture,Bookshelf,1,180.00,180.00
+110,7,2023-06-22,Electronics,Laptop Stand,2,35.00,70.00
+111,4,2023-06-25,Electronics,USB-C Dock,1,150.00,150.00
+112,1,2023-06-28,Clothing,Running Shoes,1,110.00,110.00
